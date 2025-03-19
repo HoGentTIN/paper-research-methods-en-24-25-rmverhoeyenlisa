@@ -1,8 +1,8 @@
 # Research Methods - paper
 
-| Surname   | First Name | Class  | Github user name                                  |
-| :-------- | :--------- | :----- | :------------------------------------------------ |
-| Verhoeyen | Lisa       | G2.B | [LisaVerhoeyen](https://github.com/LisaVerhoeyen) |
+| Surname   | First Name | Class | Github user name                                  |
+| :-------- | :--------- | :---- | :------------------------------------------------ |
+| Verhoeyen | Lisa       | G2.B  | [LisaVerhoeyen](https://github.com/LisaVerhoeyen) |
 
 
 This Github-repository contains all the necessary information you need to prepare and write the paper for the subject Research Methods.
