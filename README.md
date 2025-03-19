@@ -1,9 +1,9 @@
 # Research Methods - paper
 
-| Surname      | First Name | Class     | Github user name                        |
-| :----------- | :--------- | :-------- | :-------------------------------------- |
-| SURNAME1     | FirstName1 | G2.C1     | [UserName](https://github.com/UserName) |
-| SURNAME2     | FirstName2 | G2.C1     | [UserName](https://github.com/UserName) |
+| Surname   | First Name | Class  | Github user name                                  |
+| :-------- | :--------- | :----- | :------------------------------------------------ |
+| Verhoeyen | Lisa       | G2.B | [LisaVerhoeyen](https://github.com/LisaVerhoeyen) |
+
 
 This Github-repository contains all the necessary information you need to prepare and write the paper for the subject Research Methods.
 
